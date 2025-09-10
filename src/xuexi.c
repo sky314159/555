@@ -14,6 +14,6 @@ int main()
     if (i < 18)
     {
         printf("进门右边 ！ \n");
-    }
+    }   111111
     return 0;
 }
